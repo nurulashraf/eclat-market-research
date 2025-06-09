@@ -1,15 +1,15 @@
 
 # ECLAT Market Research
 
-ECLAT Market Research is a data-driven project that explores customer purchase patterns using association rule mining techniques — specifically the ECLAT algorithm. This project analyzes market basket data to identify frequent itemsets and meaningful relationships between products, offering insights for strategic decision-making in retail and e-commerce.
+ECLAT Market Research is a data-driven project that explores customer purchase patterns using association rule mining techniques, specifically the ECLAT algorithm. This project analyses market basket data to identify frequent itemsets and meaningful relationships between products, offering insights for strategic decision-making in retail and e-commerce.
 
 ---
 
 ## Features
 
 - Performs market basket analysis using the **ECLAT (Equivalence Class Clustering and bottom-up Lattice Traversal)** algorithm.
-- Visualizes frequent itemsets and their supports using interactive plots.
-- Allows customization of support thresholds.
+- Visualises frequent itemsets and their supports using interactive plots.
+- Allows customisation of support thresholds.
 - Exports insights for use in marketing and inventory planning.
 
 ---
@@ -51,7 +51,7 @@ ECLAT Market Research is a data-driven project that explores customer purchase p
 
 3. **Run the notebook:**
 
-   Open `notebooks/eclat_market_research.ipynb` in Jupyter Notebook or Jupyter Lab to explore and analyze the data.
+   Open `notebooks/eclat_market_research.ipynb` in Jupyter Notebook or Jupyter Lab to explore and analyse the data.
 
 4. **Modify support threshold:**
 
