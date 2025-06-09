@@ -59,7 +59,7 @@ ECLAT Market Research is a data-driven project that explores customer purchase p
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
